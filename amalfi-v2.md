@@ -1,5 +1,3 @@
-<a href="https://visual-essays.net/rdsnyder/demo/amalfi-v2"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-
 .ve-header Amalfi wc:AmalfiCoast11.jpg Ron sticky=true
 
 Q80563 Q212214 Q686306
