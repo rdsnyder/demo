@@ -1,4 +1,4 @@
-.ve-header Amalfi wc:AmalfiCoast11.jpg
+.ve-header Amalfi wc:AmalfiCoast11.jpg sticky=true
 
 # Amalfi
 
