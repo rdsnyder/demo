@@ -1,5 +1,3 @@
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-
 <param ve-config 
   title="Amalfi" author="Ron" layout="vertical"
   banner="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Amalfi_panorama_I.jpg/1280px-Amalfi_panorama_I.jpg">
@@ -15,7 +13,6 @@ Amalfi is a town and _comune_ in the province of Salerno, in the region of Campa
   url="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amalfi,_Italy_(21078177390).jpg"
   label="Amalfi, Italy" fit="cover"
   license="CC BY" attribution="Kārlis Dambrāns from Latvia">
-<param ve-image manifest="https://iiif.lib.harvard.edu/manifests/ids:41259263">
 
 Amalfi is the main town of the coast on which it is located, named _Costiera Amalfitana_ (Amalfi Coast), and is today an important tourist destination together with other towns on the same coast, such as Positano, Ravello and others.
 <param ve-map center="Q80563" zoom="8">
