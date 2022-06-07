@@ -1,3 +1,5 @@
+<a href="https://visual-essays.net/rdsnyder/amalfi-v2"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+
 .ve-header Amalfi wc:Amalfi_panorama_I.jpg Ron
 
 Q80563 Q212214 Q686306
