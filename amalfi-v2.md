@@ -1,4 +1,4 @@
-<a href="https://visual-essays.net/rdsnyder/amalfi-v2"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<a href="https://visual-essays.net/rdsnyder/demo/amalfi-v2"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 .ve-header Amalfi wc:Amalfi_panorama_I.jpg Ron
 
