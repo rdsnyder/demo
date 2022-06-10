@@ -15,7 +15,7 @@ One of the main sites in Amalfi is the Amalfi Cathedral.  <span data-click-image
   url="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amalfi,_Italy_(21078177390).jpg"
   label="Amalfi, Italy" fit="cover"
   license="CC BY" attribution="Kārlis Dambrāns from Latvia">
-<param ve-image-v2 src="wc:/Amalfi,_Italy_(21078177390).jpg">
+<param ve-image-v2 src="wc:Amalfi,_Italy_(21078177390).jpg">
 
 Amalfi is the main town of the coast on which it is located, named _Costiera Amalfitana_ (Amalfi Coast), and is today an important tourist destination together with other towns on the same coast, such as Positano, Ravello and others.
 <param ve-map center="Q80563" zoom="8">
