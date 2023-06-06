@@ -1,5 +1,7 @@
 [![](https://juncture-digital.github.io/juncture/static/images/ve-button.png)](https://www.juncture-digital.org)
 
+<a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
+
 <param ve-config 
   title="Amalfi" author="Ron" layout="vertical"
   banner="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Amalfi_panorama_I.jpg/1280px-Amalfi_panorama_I.jpg">
