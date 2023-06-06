@@ -1,4 +1,5 @@
-![]([https://www.juncture-digital.org](https://juncture-digital.github.io/juncture/images/ve-button.png)
+![](https://www.juncture-digital.org](https://juncture-digital.github.io/juncture/images/ve-button.png)
+
 [Preview](https://www.juncture-digital.org)
 
 <param ve-config 
