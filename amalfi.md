@@ -1,4 +1,4 @@
-<a href="https://www.juncture-digital.org/headers"> <img src="https://juncture-digital.org/images/ve-button.png"> </a>
+<a href="https://juncture-digital.org/headers"> <img src="https://juncture-digital.org/images/ve-button.png"> </a>
 
 <param ve-config 
   title="Amalfi" author="Ron" layout="vertical"
