@@ -1,4 +1,4 @@
-<a href="https://www.juncture-digital.org"> <img src="https://juncture-digital.github.io/juncture/images/ve-button.png"> </a>
+![https://juncture-digital.github.io/juncture/images/ve-button.png](https://www.juncture-digital.org)
 
 <param ve-config 
   title="Amalfi" author="Ron" layout="vertical"
